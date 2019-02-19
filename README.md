@@ -1,2 +1,0 @@
-# Timus-problems
-CPP codes
